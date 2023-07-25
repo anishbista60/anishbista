@@ -64,7 +64,7 @@
 <a href="https://instagram.com/https://www.instagram.com/anlsh.bista/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://hashnode.com/@ https://hashnode.com/@anish60" target="_blank">
+<a href="https://anish60.hashnode.dev" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/https://github.com/anishbista60/anishbista" target="_blank">

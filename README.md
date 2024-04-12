@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning kubernetes and Golang deeply.
 
-- 🌱 I'm Contributer of Kubevirt which is CNCF incubating Project.
+- 🌱 I'm Contributor of Kubevirt which is CNCF incubating Project.
   
 - ❓ Ask me about anything related to Devops , Cloud and CNCF.
   

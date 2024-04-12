@@ -3,16 +3,17 @@
 </div>  
   
 
-### <div align="center">I'm Anish Bista, a passinate Devops Learner originally from nepal👨‍💻 Iam b.tech second year student at CMR INSTITUTE OF TECHNOLOGY, Banglore,India 🚀</div>  
+### <div align="center">Hello 👋 everyone myself Anish Bista a passionate learner looking for opportunity in Devops and Cloud ☁️</div>  
   
 
-- 🔭 I’m currently Student  
+- 🔭 I’m Student.
   
 
-- 🌱 I’m currently learning Golang with the aim to contribute in CNCF
-  
+- 🌱 I’m currently learning kubernetes and Golang deeply.
 
-- ❓ Ask me about anything related to Devops  
+- 🌱 I'm Contributer of Kubevirt which is CNCF incubating Project.
+  
+- ❓ Ask me about anything related to Devops , Cloud and CNCF.
   
 
 - ⚡ Fun fact: I am always funny and try alot to make someone laugh  
@@ -51,19 +52,17 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://instagram.com/https://www.instagram.com/anlsh.bista/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://anish60.hashnode.dev" target="_blank">
-<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/https://github.com/anishbista60/anishbista" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/@anishbista053" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-</div>  
+    <a href="https://anish60.hashnode.dev" target="_blank">
+        <img src="https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode" style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://www.linkedin.com/in/anishbista/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://twitter.com/@anishbista053" target="_blank">
+        <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+    </a>  
+</div>
+
   
 
 <br/>  
